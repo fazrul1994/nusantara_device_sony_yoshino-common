@@ -1,7 +1,7 @@
 Device configuration for yoshino platform
 =========================================
 
-This is the Lineage 17.1 device configuration for the Yoshino platform.
+This is the NusantaraOS LTS a10 device configuration for the Yoshino platform.
 
 Devices based on Yoshino platform:
 
